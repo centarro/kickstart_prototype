@@ -1,0 +1,11 @@
+entity.commerce_order.order_items:
+  path: '/admin/commerce/orders/{commerce_order}/order-items'
+  defaults:
+    _form: '\Drupal\kickstart_prototype\Form\OrderItemsForm'
+    _title: 'Order items'
+  options:
+    parameters:
+      commerce_order:
+        type: 'entity:commerce_order'
+  requirements:
+    _permission: 'administer commerce_order'

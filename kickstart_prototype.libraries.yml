@@ -1,0 +1,5 @@
+order_items:
+  version: VERSION
+  css:
+    theme:
+      css/kickstart_prototype.order_items.css: {}

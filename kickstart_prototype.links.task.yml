@@ -1,0 +1,5 @@
+entity.commerce_order.order_items:
+  route_name: entity.commerce_order.order_items
+  base_route: entity.commerce_order.canonical
+  title: Order items
+  weight: 12

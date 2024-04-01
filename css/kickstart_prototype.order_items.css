@@ -1,0 +1,22 @@
+.kickstart-prototype-order-items .image-style-product-teaser {
+  float: left;
+  width: 100px;
+  margin-bottom: 1em;
+}
+
+.kickstart-prototype-order-items .product-row {
+  float: left;
+  margin: 0 0 1em 1em;
+}
+
+.kickstart-prototype-order-items .product-row h4 {
+  float: left;
+  width: 275px;
+  padding-top: .75em;
+  color: var(--color-text);
+}
+
+.kickstart-prototype-order-items .product-row .form-item {
+  float: left;
+  margin: 0 0 0 1em;
+}

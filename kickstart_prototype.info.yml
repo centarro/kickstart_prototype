@@ -1,0 +1,7 @@
+name: Kickstart Prototype
+type: module
+description: 'Prototype features for Commerce Kickstart demos.'
+package: Commerce
+core_version_requirement: ^10
+dependencies:
+  - commerce:commerce_cart
